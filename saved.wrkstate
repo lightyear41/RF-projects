@@ -1,0 +1,13 @@
+<!DOCTYPE SaveWorkspaceState>
+<SaveWorkspaceState>
+    <Windows>
+        <Schematic y1="0" width="958" lib="MyLibrary1_lib" x1="0" cell="015um_MOSFET_Available_gain_method" height="991" view="schematic" geom="1,0,0,1,38,958,991,1920,1080"/>
+        <Layout y1="-9" width="1920" lib="MyLibrary1_lib" x1="-1" cell="015um_MOSFET" height="1001" view="layout" geom="1,0,2,-799,38,1536,824,1920,1080"/>
+        <Layout y1="-9" width="1920" lib="MyLibrary1_lib" x1="-1" cell="015um_MOSFET_For_Harmonics" height="1001" view="layout" geom="1,0,2,-779,58,1536,824,1920,1080"/>
+        <DDS name="015um_MOSFET_For_Harmonics.dds"/>
+        <DDS name="015um_MOSFET.dds"/>
+        <DDS name="015um_MOSFET_Available_gain_method.dds"/>
+        <DDS name="NyqStab.dds"/>
+    </Windows>
+    <MainWindowTab tab="1"/>
+</SaveWorkspaceState>

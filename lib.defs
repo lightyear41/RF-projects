@@ -1,0 +1,9 @@
+INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
+INCLUDE $HPEESOF_DIR/oalibs/dsp.defs
+DEFINE MyLibrary1_lib MyLibrary1_lib
+ASSIGN MyLibrary1_lib libMode shared
+INCLUDE $HOME/ADS${__SPACE}for${__SPACE}ATF/Microwave_Transistors_vendor_kit/lib.defs
+INCLUDE $HOME/ADS${__SPACE}Projects/RF_Transistors_vendor_kit/lib.defs
+INCLUDE $HOME/ADS${__SPACE}Projects/System_Lib_vendor_kit/lib.defs
+INCLUDE $HOME/ADS${__SPACE}Projects/Analog_Parts_vendor_kit/lib.defs
+INCLUDE $HOME/ADS${__SPACE}Projects/RF_Passive_SMT_vendor_kit/lib.defs

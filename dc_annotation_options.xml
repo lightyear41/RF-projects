@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dc_annotation_options>
+ <options cell="ATF-34143" ToggleCurrent="true" library="MyLibrary1_lib" view="schematic" ToggleVoltage="true"/>
+ <options cell="015um_MOSFET" ToggleCurrent="true" library="MyLibrary1_lib" view="schematic" ToggleVoltage="true"/>
+ <options cell="015um_MOSFET_Available_gain_method" ToggleCurrent="true" library="MyLibrary1_lib" view="schematic" ToggleVoltage="true"/>
+ <options cell="ATF55143" ToggleCurrent="true" library="MyLibrary1_lib" view="schematic" ToggleVoltage="true"/>
+</dc_annotation_options>
